@@ -1,5 +1,5 @@
 {
-  "name": "dz1",
+  "name": "dz-port",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-connect": "^3.2.1",

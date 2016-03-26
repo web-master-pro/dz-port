@@ -1,6 +1,7 @@
 {
-  "name": "dz1",
+  "name": "dz-port",
   "dependencies": {
-    "jquery": "1.11"
+    "jquery": "1.11",
+    "normalize-css": "normalize.css#^4.0.0"
   }
 }
